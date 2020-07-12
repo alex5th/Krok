@@ -897,6 +897,16 @@ PrefabInstance:
       propertyPath: training
       value: 
       objectReference: {fileID: 1507959164}
+    - target: {fileID: 501927034668458812, guid: 3bb05b6a5f3717045a4f68683096c10c,
+        type: 3}
+      propertyPath: position.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 501927034668458812, guid: 3bb05b6a5f3717045a4f68683096c10c,
+        type: 3}
+      propertyPath: position.x
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 501927034668458813, guid: 3bb05b6a5f3717045a4f68683096c10c,
         type: 3}
       propertyPath: m_LocalPosition.x
